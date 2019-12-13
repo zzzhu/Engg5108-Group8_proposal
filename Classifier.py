@@ -170,5 +170,5 @@ LR_pipeline_final.fit(Data_preprocessing.train_news['Statement'],Data_preprocess
 
 #Saving chosen model
 #file = 'final_model.sav'
-#pickle.dump(LR_pipeline_ngram,open(file,'wb'))
+#pickle.dump(LR_pipeline_final,open(file,'wb'))
 
